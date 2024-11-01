@@ -162,6 +162,13 @@ section {
 
 /* PROFILE SECTION */
 
+.cp {
+  border-radius: 2rem;
+  width: 50%;
+  height: 50%;
+}
+
+
 #profile {
   display: flex;
   justify-content: center;
@@ -359,7 +366,7 @@ article .icon {
   position: relative;
 }
 
-#certificates {
+#certificates, #coding-profiles {
   position: relative;
 }
 
